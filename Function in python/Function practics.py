@@ -8,6 +8,6 @@ def even_odd_numbers ():
         print("This is even number")
 
     else:
-        print("This is add number")
+        print("This is odd number")
 
 even_odd_numbers()
